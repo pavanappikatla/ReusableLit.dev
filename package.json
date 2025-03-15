@@ -1,0 +1,22 @@
+{
+  "name": "lit-poc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@material/web": "^2.2.0",
+    "@shoelace-style/shoelace": "^2.20.1",
+    "ag-grid-community": "^33.1.1",
+    "bootstrap": "^5.3.3",
+    "gridjs": "^6.2.0",
+    "lit": "^3.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.7",
+    "vite": "^5.4.9"
+  }
+}
