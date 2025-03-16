@@ -1,7 +1,9 @@
-import './src/components/card-component';
-import './src/components/grid-component';
-import './src/components/loginform-component';
 
-export {CardComponent} from './src/components/card-component';
-export {GridComponent} from './src/components/grid-component';
-export {LoginFormComponent} from './src/components/loginform-component';
+import '../lit-poc/src/components/card-component.ts'
+import '../lit-poc/src/components/grid-component.ts'
+import '../lit-poc/src/components/loginform-component.ts'
+
+
+export {CardComponent} from '../lit-poc/src/components/card-component.ts';
+export {GridComponent} from '../lit-poc/src/components/grid-component.ts';
+export {LoginFormComponent} from '../lit-poc/src/components/loginform-component.ts';
